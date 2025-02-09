@@ -2,18 +2,6 @@
 
 A modern web application for exploring places around you, built with React, TypeScript, and the Google Maps API. View the live version at [https://maps.buremba.com/](https://maps.buremba.com/).
 
-## Features
-
-- 🗺️ Interactive map interface with custom markers
-- 🏠 Set home location via search or map click
-- 🚶‍♂️ Calculate walking distances to multiple selected places
-- 📍 Filter places by venue type (restaurants, cafes, etc.)
-- 📱 Responsive design for mobile and desktop
-- 🌓 System theme support (light/dark mode)
-- 🔍 Advanced search with Google Places API
-- 📊 Sortable list view with place details
-- 🔗 Direct links to Google Maps for each place
-
 ## Tech Stack
 
 - React 18 with TypeScript
@@ -95,7 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [Google Maps Platform](https://developers.google.com/maps) for their excellent mapping services
-- [TailwindCSS](https://tailwindcss.com) for the utility-first CSS framework
-- [Lucide](https://lucide.dev) for the beautiful icons
-- [Tanstack Table](https://tanstack.com/table) for the powerful table functionality
+- [ShadeMap](https://shademap.app/)
