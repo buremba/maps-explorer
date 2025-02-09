@@ -1,6 +1,6 @@
 # Maps Explorer
 
-A modern web application for exploring places around you, built with React, TypeScript, and the Google Maps API. View the live version at [maps-explorer.pages.dev](https://maps-explorer.pages.dev).
+A modern web application for exploring places around you, built with React, TypeScript, and the Google Maps API. View the live version at [https://maps.buremba.com/](https://maps.buremba.com/).
 
 ## Features
 
